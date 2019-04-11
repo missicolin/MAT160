@@ -1,0 +1,11 @@
+zimpl	v       0	T               	"T"
+zimpl	v       1	N               	"N"
+zimpl	v       2	P               	"P"
+zimpl	v       3	A               	"A"
+zimpl	c       0	radio_constrai@0	"radio_constraint_1"	0.0000000000000000e+00
+zimpl	c       1	budget_constra@1	"budget_constraint_1"	0.0000000000000000e+00
+zimpl	c       2	radio_size_con@2	"radio_size_constraint_1"	0.0000000000000000e+00
+zimpl	c       3	tv_constraint_1 	"tv_constraint_1"	0.0000000000000000e+00
+zimpl	c       4	NP_constraint_1 	"NP_constraint_1"	0.0000000000000000e+00
+zimpl	c       5	RP_constraint_1 	"RP_constraint_1"	0.0000000000000000e+00
+zimpl	c       6	RA_constraint_1 	"RA_constraint_1"	0.0000000000000000e+00
